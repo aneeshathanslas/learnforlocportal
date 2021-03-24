@@ -8,16 +8,17 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>In response to the coronavirus (COVID-19) situation, Microsoft is implementing several temporary changes to our training and certification program. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
   This is a new update.
+  This is a new update2.
   The Azure Database Administrator implements and manages the operational aspects of cloud-native and hybrid data platform solutions built with Microsoft SQL Server and Microsoft Azure Data Services. The Azure Database Administrator uses a variety of methods and tools to perform day-to-day operations, including applying knowledge of using T-SQL for administrative management purposes.
   
   <div></br>
   Candidates for this role should understand all concepts covered in <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>.
   </div>
-subTitle: The Azure Database Administrator implements and manages the operational aspects of cloud-native and hybrid data platform solutions built on Microsoft Azure data services and Microsoft SQL Server.
+subTitle: The Azure Database Administrator implements and manages update the operational aspects of cloud-native and hybrid data platform solutions built on Microsoft Azure data services and Microsoft SQL Server.
 levels:
 - intermediate
 skills:
-- new item added
+- new item added2
 - Plan and implement data platform resources 
 - Implement a secure environment 
 - Monitor and optimize operational resources 
@@ -39,6 +40,7 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+- uid: course.dp-300t01
 paths:
 - uid: learn.azure-sql-fundamentals
 - uid: learn.wwl.plan-implement-data-platform-resources
