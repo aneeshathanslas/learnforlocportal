@@ -92,6 +92,9 @@ resources:
 - title: Support for certifications
   description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
   href: help.md
+- title: new  tile
+  description: new desccription
+  href: https://www.microsoft.com/learning/new.aspx
 - title: Certification dashboard
   description: Review and manage your scheduled appointments, certificates, and transcripts.
   href: https://www.microsoft.com/learning/dashboard.aspx
