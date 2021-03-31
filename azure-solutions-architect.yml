@@ -9,7 +9,7 @@ summary: |-
   <div><font color='red'><strong>In response to the coronavirus (COVID-19) situation, Microsoft is implementing several temporary changes to our training and certification program. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
   
   Candidates for the Azure Solutions Architect Expert certification should have subject matter expertise in designing and implementing solutions that run on Microsoft Azure, including aspects like compute, network, storage, and security. Candidates should have intermediate-level skills for administering Azure. Candidates should understand Azure development and DevOps processes.
-  updated
+  This is updated .
   Responsibilities for this role include advising stakeholders and translating business requirements into secure, scalable, and reliable cloud solutions.
   
   An Azure Solution Architect partners with cloud administrators, cloud DBAs, and clients to implement solutions.
@@ -24,11 +24,11 @@ skills:
 - Implement solutions for apps
 - Implement and manage data platforms 
 - Design monitoring
-- newly added
 - Design identity and security
 - Design data storage 
 - Design business continuity
 - Design infrastructure
+- this is added
 roles:
 - solution-architect
 type: role-based
@@ -55,7 +55,7 @@ products:
 - azure-sql-database
 - azure-event-hubs
 courses:
-- uid: course.az-000000
+- uid: course.az-0001
 - uid: course.az-303t00
 - uid: course.az-304t00
 - uid: course.az-030t00
@@ -76,7 +76,7 @@ exams:
 resources:
 - title: Azure certifications poster
   description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh/update
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh/
 - title: Journey to certification
   description: Explore steps to get certified as an Azure Solutions Architect Expert and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
