@@ -48,7 +48,7 @@ exams:
 resources:
 - title: Azure certifications poster
   description: Check out an overview including fundamentals, role-based, and specialty certifications for Azure.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh/updated
 - title: Journey to certification
   description: Explore steps to get certified in Azure Fundamentals and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
@@ -66,4 +66,7 @@ resources:
   href: help.md
 - title: Certification dashboard
   description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: new title
+  description: new description
   href: https://www.microsoft.com/learning/dashboard.aspx
