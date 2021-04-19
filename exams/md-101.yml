@@ -30,8 +30,8 @@ skills:
 - The content of this exam was updated on March 8, 2021. Please download the exam skills outline below to see what changed.
 - Deploy and upgrade operating systems (25-30%)
 - Manage policies and profiles (20-25%)
-- Manage and protect devices (30-35%)
 - Manage apps and data (10-15%)
+- New update (10-15%)
 roles:
 - administrator
 products:
@@ -48,6 +48,8 @@ paths:
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
+- related:
+    uid: certification.mcsd-app-builder-certification
 resources:
 - title: Certification Learning Path
   description: 'Discover training resources to become a Microsoft Certified: Modern Desktop Administrator Associate.'
