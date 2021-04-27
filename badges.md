@@ -18,6 +18,7 @@ Digital badges allow you to easily share your skills in a way that is trusted an
 
 Your Microsoft badge empowers you to:
 
+- Adding an update here - bullet point 1
 - Easily share your certifications and exams with your professional network.
 - Learn which employers are looking for individuals with your skills.
 - Discover the salary you can expect in jobs that require your Microsoft skills.
@@ -58,7 +59,7 @@ Your digital badge is one more way that Microsoft supports the development and r
 
 ## Do you have unclaimed badges?
 
-You can claim your badge at any time, even if you passed an exam or achieved a certification in the past. All badges that you have earned from Microsoft based on your past certification history are available through the Acclaim platform. Simply log into your account and claim them!
+You can claim your badge at any time, even if you passed an exam or achieved a certification in the past. All badges that you have earned from Microsoft based on your past certification history are available through the Acclaim platform. Simply log into your account and claim them! Adding an update here - sentence added.
 
 If you don’t have an Acclaim account, you can create an account on the [Acclaim](https://www.youracclaim.com/)* platform site using the same email address that Microsoft has on file for you. Your badge will be waiting in your account for you to claim.
 
