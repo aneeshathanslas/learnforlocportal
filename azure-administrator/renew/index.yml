@@ -19,10 +19,11 @@ skills:
 - Protect your machines with Azure Backup
 - Introduction to Kubernetes
 - Manage users and groups in Azure Active Directory
+- new update
 examsPassed:
 - az-104
 studyGuideDescription: 'Use this collection of learning modules to help you prepare for the Microsoft Certified: Azure Administrator Associate renewal assessment.'
 resources:
-- title: About certification renewal
+- title: About certification renewal 
   summary: Understand the process and requirements to renew your certifications online
   url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
