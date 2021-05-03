@@ -19,9 +19,10 @@ summary: |-
   A candidate for this exam should have 1-2 years professional development experience and experience with Microsoft Azure. In addition, the role should have ability programming in a language supported by Azure and proficiency in Azure SDKs, Azure PowerShell, Azure CLI, data storage options, data connections, APIs, app authentication and authorization, compute and container deployment, debugging, performance tuning, and monitoring.
   
   You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.'
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop updated this for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&provider=psi&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-20
 locales:
 - en
 - ja
@@ -38,6 +39,7 @@ skills:
 - The content of this exam will be updated on March 26, 2021. Please download the exam skills outline below to see what will be changing.
 - Develop Azure compute solutions (25-30%)
 - Develop for Azure storage (10-15%)
+- Implement Azure security (15-20%)
 - Implement Azure security (15-20%)
 - Monitor, troubleshoot, and optimize Azure solutions (10-15%)
 - Connect to and consume Azure services and third-party services (25-30%)
@@ -87,6 +89,9 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: Journey to certification
+  description: Explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: New card
   description: Explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Training and certification guide
