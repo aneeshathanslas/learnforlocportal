@@ -23,6 +23,7 @@ Your Microsoft badge empowers you to:
 - Learn which employers are looking for individuals with your skills.
 - Discover the salary you can expect in jobs that require your Microsoft skills.
 - Search for new job opportunities associated with your certification and apply in just a few clicks.
+- skills and verify the badge’s authenticity—ensuring only you can take credit for your skills.
 
 For more details, see our blog post [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -42,7 +43,7 @@ Claiming your Microsoft badge is simple. After you’ve earned a certification o
 2. Create an account on Credly’s Acclaim platform.
 3. Confirm your account by clicking the link in a confirmation email that is generated after you set up your account.
 
-Claiming future badges is as easy as clicking the link in the notification email and logging into our Acclaim account.
+Claiming future badges is as easy as clicking the link in the notification email and logging into our Acclaim account. Once you have claimed your Microsoft badge, use Credly’s Acclaim platform one.
 
 Want to simplify that process?
 
