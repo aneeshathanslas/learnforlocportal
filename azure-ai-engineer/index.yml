@@ -17,6 +17,8 @@ summary: |-
   
   Candidates for this certification should be proficient in C#, Python, or JavaScript and should be able to use REST-based APIs and SDKs to build computer vision, natural language processing, knowledge mining, and conversational AI solutions on Azure. They should also understand the components that make up the Azure AI portfolio and the available data storage options. Plus, candidates need to understand and be able to apply responsible AI principles.
   
+  New paragraph added.
+  
   <div><br/><strong>You will earn this certification if you pass one of the following exams&#58;</strong><br/>
   <ul>
   <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (retiring June 30, 2021) <strong>or</strong></li>
@@ -30,7 +32,6 @@ skills:
 - Implement natural language processing solutions 
 - Implement knowledge mining solutions
 - Implement conversational AI solutions
-- new bullet point
 roles:
 - ai-engineer
 type: role-based
