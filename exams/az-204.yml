@@ -40,7 +40,6 @@ skills:
 - Develop Azure compute solutions (25-30%)
 - Develop for Azure storage (10-15%)
 - Implement Azure security (15-20%)
-- Implement Azure security (15-20%)
 - Monitor, troubleshoot, and optimize Azure solutions (10-15%)
 - Connect to and consume Azure services and third-party services (25-30%)
 roles:
@@ -91,7 +90,7 @@ resources:
 - title: Journey to certification
   description: Explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
-- title: New card
+- title: New card3
   description: Explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Training and certification guide
