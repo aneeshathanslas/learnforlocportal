@@ -24,6 +24,7 @@ Your Microsoft badge empowers you to:
 - Discover the salary you can expect in jobs that require your Microsoft skills.
 - Search for new job opportunities associated with your certification and apply in just a few clicks.
 - skills and verify the badge’s authenticity—ensuring only you can take credit for your skills.
+- added new last point.
 
 For more details, see our blog post [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -124,7 +125,7 @@ Please note: When badge earners are missing badges from Certiport, it is often d
 1. The default language in your Certiport account is something other than English.
 2. You have two accounts in Certiport’s certification system.
 
-It may help to mention these to Certiport support to assist with troubleshooting.
+It may help to mention these to Certiport support to assist with troubleshooting. added a new sentence.
 
 **Q. What happens to my badge if an exam or certification is retired?**
 
